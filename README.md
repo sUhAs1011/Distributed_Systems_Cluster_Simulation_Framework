@@ -1,7 +1,7 @@
 # Distributed_Systems_Cluster_Simulation_Framework
 
 ## Project Overview  
-This project is a part of our 6th sem cloud computing course curicullum and this project aims to develop a lightweight, simulation-based system that mimics core Kubernetes cluster management functionalities. It creates a simplified yet comprehensive platform for showcasing key distributed computing concepts such as resource allocation, fault tolerance, and system recovery.
+This project is a part of our 6th sem cloud computing course curriculum and this project aims to develop a lightweight, simulation-based system that mimics core Kubernetes cluster management functionalities. It creates a simplified yet comprehensive platform for showcasing key distributed computing concepts such as resource allocation, fault tolerance, and system recovery.
 
 ## Problem Statement  
 Design and implement a distributed systems simulation framework featuring:  
