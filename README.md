@@ -20,3 +20,8 @@ Design and implement a distributed systems simulation framework featuring:
 2. Efficient pod scheduling across nodes.  
 3. Node health monitoring and recovery during failures.  
 4. Node health status listing via CLI/Web Interface.
+
+## Technology Stack  
+- **Docker**: For simulating nodes.  
+- **Flask or Node.js**: For implementing the API Server.  
+- **Scheduling Algorithms**: First-Fit, Best-Fit, Worst-Fit for pod scheduling.  
