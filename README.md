@@ -14,3 +14,9 @@ Design and implement a distributed systems simulation framework featuring:
 2. Develop a **Pod Scheduler** to allocate resources efficiently.  
 3. Create a **Health Monitor** for detecting node failures and initiating recovery actions.  
 4. Provide a **CLI/Web Interface** for cluster operations.
+
+## Key Deliverables  
+1. Node addition process and cluster management.  
+2. Efficient pod scheduling across nodes.  
+3. Node health monitoring and recovery during failures.  
+4. Node health status listing via CLI/Web Interface.
