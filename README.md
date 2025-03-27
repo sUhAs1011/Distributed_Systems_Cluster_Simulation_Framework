@@ -25,3 +25,9 @@ Design and implement a distributed systems simulation framework featuring:
 - **Docker**: For simulating nodes.  
 - **Flask or Node.js**: For implementing the API Server.  
 - **Scheduling Algorithms**: First-Fit, Best-Fit, Worst-Fit for pod scheduling.  
+
+Team Members:  
+- Soumya Ranjan Mishra (PES2UG22CS571)  
+- Suhas Karamalaputti (PES2UG22CS590)  
+- Shuklav Reddy (PES2UG22CS557)  
+- Soham Praveen Salunke (PES2UG22CS565)
