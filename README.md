@@ -31,7 +31,7 @@ Design and implement a distributed systems simulation framework featuring:
 ![WhatsApp Image 2025-04-16 at 16 20 15_75610a9e](https://github.com/user-attachments/assets/aff48c32-f048-44ee-a091-529e7479a9e3)
 
 
-##Team Members:  
+## Team Members:  
 - Soumya Ranjan Mishra (PES2UG22CS571)  
 - Suhas Karamalaputti (PES2UG22CS590)  
 - Shuklav Reddy (PES2UG22CS557)  
@@ -41,14 +41,14 @@ Design and implement a distributed systems simulation framework featuring:
 
 ## Individual Contribution
 
--Soham:- node_sim.py
+- Soham:- node_sim.py
 
--Suhas:- /heartbeat
+- Suhas:- /heartbeat
 
--Soumya:- /add_node
+- Soumya:- /add_node
 
--Shuklav:-/nodes, documentation
+- Shuklav:-/nodes, documentation
 
--Hitha:- /launch_pod
+- Hitha:- /launch_pod
 
 
