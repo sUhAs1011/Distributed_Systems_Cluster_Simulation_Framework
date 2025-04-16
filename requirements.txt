@@ -1,0 +1,28 @@
+First run the following command for required thid party modules
+pip install fastapi pydantic requests uvicorn
+
+
+Commands:
+
+build docker image: docker build -t kube-node .
+
+start fastapi server: uvicorn api_server.main:app --reload 
+
+add node: curl -X POST http://127.0.0.1:8000/add_node -H "Content-Type: application/json" -d "{\"cpu_cores\": 4}"
+
+show nodes: docker ps -a
+
+docker logs <container_id>
+
+list out nodes(health monitor is executed along with this): curl http://127.0.0.1:8000/nodes 
+
+adding pod: curl -X POST http://127.0.0.1:8000/launch_pod -H "Content-Type: application/json" -d "{\"cpu_required\": 1}"
+
+
+
+Steps to execute project:-
+
+1. Build docker image.
+2. Start fastapi server in powershell.
+3. On a different command prompt tab(use cmd not powershell), add a node and optionally add pods as well.
+4. Use other commands at your behest.
